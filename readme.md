@@ -8,6 +8,9 @@ Using C, Ruby, Javascript, and SuperCollider*
 
 All times given in seconds
 
+### Problem Seven
+* Go: 0.045 from the command line
+
 ### Problem Six
 * Go: 0.003637 from command line
 
